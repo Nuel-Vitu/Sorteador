@@ -150,7 +150,7 @@ button:disabled {
     h1 {
         font-size: 50px;
     }
-
+    
     .container__botao {
         font-size: 16px;
     }
@@ -158,6 +158,10 @@ button:disabled {
 
     .texto__paragrafo {
         font-size: 24px;
+    }
+
+    .container__imagem-pessoa {
+        display: none;
     }
 
     .container__conteudo {
